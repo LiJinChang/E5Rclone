@@ -9,7 +9,7 @@ on:
 jobs:
   run-it:
     runs-on: ubuntu-latest
-    name: E5-Rclone-Actions
+    name: E5 Rclone
     steps:
       - name: Checkout master
         uses: actions/checkout@master
